@@ -1,0 +1,5 @@
+name: dialoguewise
+version: 0.1.0
+dependencies:
+  intl: ^0.16.1
+  crypto: ^2.1.5
