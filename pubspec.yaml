@@ -1,5 +1,9 @@
 name: dialoguewise
+description: Dialoguewise API Integration
+homepage: https://pub.dev/
 version: 0.1.0
 dependencies:
   intl: ^0.16.1
   crypto: ^2.1.5
+environment:
+    sdk: ">=1.8.0 <=2.8.3"
